@@ -1,1 +1,1 @@
-# computer_science
+# myGA | computer_science | Algorithms
